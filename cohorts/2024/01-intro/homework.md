@@ -9,6 +9,8 @@ You need to install Python, NumPy, Pandas, Matplotlib and Seaborn. For that, you
 
 What's the version of Pandas that you installed?
 
+pandas 2.2.3
+
 You can get the version information using the `__version__` field:
 
 ```python
@@ -36,7 +38,7 @@ How many records are in the dataset?
 
 - 12
 - 1000
-- 2160
+X 2160
 - 12160
 
 ### Q3. Laptop brands
@@ -44,7 +46,7 @@ How many records are in the dataset?
 How many laptop brands are presented in the dataset?
 
 - 12
-- 27
+x 27
 - 28
 - 2160
 
@@ -54,7 +56,7 @@ How many columns in the dataset have missing values?
 
 - 0
 - 1
-- 2
+x 2
 - 3
 
 ### Q5. Maximum final price
@@ -64,7 +66,7 @@ What's the maximum final price of Dell notebooks in the dataset?
 - 869
 - 3691
 - 3849
-- 3936
+X 3936
 
 ### Q6. Median value of Screen
 
@@ -78,7 +80,7 @@ Has it changed?
 > Hint: refer to existing `mode` and `median` functions to complete the task.
 
 - Yes
-- No
+X No
 
 ### Q7. Sum of weights
 
@@ -96,7 +98,7 @@ Has it changed?
 - 0.43
 - 45.29
 - 45.58
-- 91.30
+X 91.30
 
 
 ## Submit the results
